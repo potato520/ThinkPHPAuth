@@ -1,0 +1,222 @@
+[ 2017-01-01T13:50:27+08:00 ] 127.0.0.1 /huanhuan/Rule/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+ERR: 无法加载模块:Rule
+
+[ 2017-01-01T13:50:48+08:00 ] 127.0.0.1 /huanhuan/Rule/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+ERR: 无法加载模块:Rule
+
+[ 2017-01-01T14:19:46+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:19:46+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/thin-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:19:46+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/font-awesome.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:19:46+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/assets/switcher/switcher-defult.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:19:46+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/assets/switcher/switcher.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:19:47+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:19:47+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/thin-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:19:47+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/font-awesome.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:19:47+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/assets/switcher/switcher.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:19:47+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/assets/switcher/switcher-defult.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:19:48+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/thin-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:19:48+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/font-awesome.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:19:48+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:19:48+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/assets/switcher/switcher.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:19:48+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/assets/switcher/switcher-defult.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:19:51+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:20:10+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:20:33+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:20:38+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/thin-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:20:40+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/font-awesome.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:21:12+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:21:12+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/thin-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:21:12+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/font-awesome.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:21:13+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/assets/switcher/switcher.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:21:13+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/assets/switcher/switcher-defult.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:21:13+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/thin-admin.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:21:13+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:21:13+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/font-awesome.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:21:13+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/assets/switcher/switcher-defult.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:21:13+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/assets/switcher/switcher.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005041s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:21:16+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/css/bootstrap.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:21:53+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/assets/switcher/switcher.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:21:53+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/assets/switcher/switcher-defult.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:21:53+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/assets/switcher/switcher.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+ERR: 无法加载模块:Public
+
+[ 2017-01-01T14:21:53+08:00 ] 127.0.0.1 /huanhuan/Public/Admin/Final-HTML/assets/switcher/switcher-defult.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Public
+
